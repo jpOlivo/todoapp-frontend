@@ -1,8 +1,10 @@
-# AngularTodoapp
+# Angular Todo app
+
+Angular app for to manage a TODO tasks list. This app was developed following a [callicoder tutorial](https://www.callicoder.com/spring-boot-mongodb-angular-js-rest-api-tutorial/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
-This project is based on [this callicoder tutorial](https://www.callicoder.com/spring-boot-mongodb-angular-js-rest-api-tutorial/)
+![img](https://i.imgur.com/yMLLcT9.png)
 
 ## Development server
 
